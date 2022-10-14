@@ -5,14 +5,73 @@
 	"author": "Nuggo",
 	"version": "0.1.0",
 	"packageId": "com.beatgames.beatsaber",
-	"packageVersion": "1.17.1",
+	"packageVersion": "1.24.0",
 	"description": "Downloads all core mods. Only to be used when BMBF can't find core mods",
-	"dependencies": [],
+	"dependencies": [
+		{
+			"id": "questui",
+			"version": "0.16.4",
+			"downloadIfNotFound": "https://github.com/darknight1050/QuestUI/releases/download/v0.16.4/QuestUI.qmod"
+		},
+		{
+			"id": "codegen",
+			"version": "0.25.0",
+			"downloadIfNotFound": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.25.0/Codegen.qmod"
+		},
+		{
+			"id": "beattogether",
+			"version": "1.5.0",
+			"downloadIfNotFound": "https://github.com/BeatTogether/BeatTogether.Quest/releases/download/v1.5.0/BeatTogether_v1.5.0.qmod"
+		},
+		{
+			"id": "playlistmanager",
+			"version": "0.2.9",
+			"downloadIfNotFound": "https://github.com/darknight1050/PlaylistManager/releases/download/v0.2.9/PlaylistManager.qmod"
+		},
+		{
+			"id": "playerdatakeeper",
+			"version": "0.1.1",
+			"downloadIfNotFound": "https://github.com/Metalit/PlayerDataKeeper/releases/download/v0.1.1/PlayerDataKeeper_1.24.qmod"
+		},
+		{
+			"id": "songdownloader",
+			"version": "0.4.9",
+			"downloadIfNotFound": "https://github.com/darknight1050/SongDownloader/releases/download/v0.4.9/SongDownloader.qmod"
+		},
+		{
+			"id": "songloader",
+			"version": "0.10.3",
+			"downloadIfNotFound": "https://github.com/darknight1050/SongLoader/releases/download/v0.10.3/SongLoader.qmod"
+		},
+		{
+			"id": "customtypes",
+			"version": "0.15.18",
+			"downloadIfNotFound": "https://github.com/sc2ad/Il2CppQuestTypePatching/releases/download/v0.15.18/CustomTypes.qmod"
+		},
+		{
+			"id": "multiplayercore",
+			"version": "1.1.0",
+			"downloadIfNotFound": "https://github.com/EnderdracheLP/MultiplayerCore.Quest/releases/download/1.1.0/MultiplayerCore1.1.0.qmod"
+		},
+		{
+			"id": "pinkcore",
+			"version": "1.7.0",
+			"downloadIfNotFound": "https://github.com/BSMGPink/PinkCore/releases/download/v1.7.0/PinkCore.qmod"
+		},
+		{
+			"id": "modlist",
+			"version": "0.1.5",
+			"downloadIfNotFound": "https://github.com/Lauriethefish/ModList/releases/download/0.1.5/mod-list_v0.1.5.qmod"
+		},
+		{
+			"id": "playlistcore",
+			"version": "1.0.1",
+			"downloadIfNotFound": "https://github.com/Metalit/PlaylistCore/releases/download/v1.0.1/PlaylistCore.qmod"
+		}
+	],
 	"modFiles": [
 		"libCoreModDownloader.so"
 	],
-	"libraryFiles": [
-		"libbeatsaber-hook_2_3_2.so"
-	],
+	"libraryFiles": [],
 	"fileCopies": []
 }
