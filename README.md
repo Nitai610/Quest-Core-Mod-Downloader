@@ -2,6 +2,8 @@
 
 Downloads all core mods. Only to be used when BMBF can't find core mods
 
+This mod was requested by Eradawn.
+
 ## Credits
 
 * [zoller27osu](https://github.com/zoller27osu), [Sc2ad](https://github.com/Sc2ad) and [jakibaki](https://github.com/jakibaki) - [beatsaber-hook](https://github.com/sc2ad/beatsaber-hook)
