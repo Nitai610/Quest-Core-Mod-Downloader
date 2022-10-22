@@ -19,11 +19,6 @@
 			"downloadIfNotFound": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.25.0/Codegen.qmod"
 		},
 		{
-			"id": "beattogether",
-			"version": "1.5.0",
-			"downloadIfNotFound": "https://github.com/BeatTogether/BeatTogether.Quest/releases/download/v1.5.0/BeatTogether_v1.5.0.qmod"
-		},
-		{
 			"id": "playlistmanager",
 			"version": "0.2.9",
 			"downloadIfNotFound": "https://github.com/darknight1050/PlaylistManager/releases/download/v0.2.9/PlaylistManager.qmod"
@@ -47,11 +42,6 @@
 			"id": "customtypes",
 			"version": "0.15.18",
 			"downloadIfNotFound": "https://github.com/sc2ad/Il2CppQuestTypePatching/releases/download/v0.15.18/CustomTypes.qmod"
-		},
-		{
-			"id": "multiplayercore",
-			"version": "1.1.0",
-			"downloadIfNotFound": "https://github.com/EnderdracheLP/MultiplayerCore.Quest/releases/download/1.1.0/MultiplayerCore1.1.0.qmod"
 		},
 		{
 			"id": "pinkcore",
