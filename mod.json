@@ -10,53 +10,63 @@
 	"dependencies": [
 		{
 			"id": "questui",
-			"version": "0.16.4",
-			"downloadIfNotFound": "https://github.com/darknight1050/QuestUI/releases/download/v0.16.4/QuestUI.qmod"
+			"version": "0.17.4",
+			"downloadIfNotFound": "https://github.com/darknight1050/QuestUI/releases/download/v0.17.4/QuestUI.qmod"
 		},
 		{
 			"id": "codegen",
-			"version": "0.25.0",
-			"downloadIfNotFound": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.25.0/Codegen.qmod"
+			"version": "0.28.0",
+			"downloadIfNotFound": "https://github.com/sc2ad/BeatSaber-Quest-Codegen/releases/download/v0.28.0/Codegen.qmod"
 		},
 		{
 			"id": "playlistmanager",
-			"version": "0.2.9",
-			"downloadIfNotFound": "https://github.com/darknight1050/PlaylistManager/releases/download/v0.2.9/PlaylistManager.qmod"
+			"version": "1.2.0",
+			"downloadIfNotFound": "https://github.com/Metalit/PlaylistManager/releases/download/v1.2.0/PlaylistManager.qmod"
 		},
 		{
 			"id": "playerdatakeeper",
-			"version": "0.1.1",
-			"downloadIfNotFound": "https://github.com/Metalit/PlayerDataKeeper/releases/download/v0.1.1/PlayerDataKeeper_1.24.qmod"
+			"version": "0.1.2",
+			"downloadIfNotFound": "https://github.com/Metalit/PlayerDataKeeper/releases/download/v0.1.2/PlayerDataKeeper.qmod"
 		},
 		{
 			"id": "songdownloader",
-			"version": "0.4.9",
-			"downloadIfNotFound": "https://github.com/darknight1050/SongDownloader/releases/download/v0.4.9/SongDownloader.qmod"
+			"version": "0.5.0",
+			"downloadIfNotFound": "https://github.com/darknight1050/SongDownloader/releases/download/v0.5.0/SongDownloader.qmod"
 		},
 		{
 			"id": "songloader",
-			"version": "0.10.3",
-			"downloadIfNotFound": "https://github.com/darknight1050/SongLoader/releases/download/v0.10.3/SongLoader.qmod"
+			"version": "0.10.9",
+			"downloadIfNotFound": "https://github.com/darknight1050/SongLoader/releases/download/v0.10.9/SongLoader.qmod"
 		},
 		{
 			"id": "customtypes",
-			"version": "0.15.18",
-			"downloadIfNotFound": "https://github.com/sc2ad/Il2CppQuestTypePatching/releases/download/v0.15.18/CustomTypes.qmod"
+			"version": "0.15.21",
+			"downloadIfNotFound": "https://github.com/sc2ad/Il2CppQuestTypePatching/releases/download/v0.15.21/CustomTypes.qmod"
 		},
 		{
 			"id": "pinkcore",
 			"version": "1.7.0",
-			"downloadIfNotFound": "https://github.com/BSMGPink/PinkCore/releases/download/v1.7.0/PinkCore.qmod"
+			"downloadIfNotFound": "https://github.com/BSMGPink/PinkCore/releases/download/v1.8.3/PinkCore.qmod"
 		},
 		{
 			"id": "modlist",
-			"version": "0.1.5",
-			"downloadIfNotFound": "https://github.com/Lauriethefish/ModList/releases/download/0.1.5/mod-list_v0.1.5.qmod"
+			"version": "0.1.7",
+			"downloadIfNotFound": "https://github.com/Lauriethefish/ModList/releases/download/v0.1.7/ModList.qmod"
 		},
 		{
 			"id": "playlistcore",
-			"version": "1.0.1",
-			"downloadIfNotFound": "https://github.com/Metalit/PlaylistCore/releases/download/v1.0.1/PlaylistCore.qmod"
+			"version": "1.1.0",
+			"downloadIfNotFound": "https://github.com/Metalit/PlaylistCore/releases/download/v1.1.0/PlaylistCore.qmod"
+		},
+		{
+			"id": "bsml",
+			"version": "0.2.2",
+			"downloadIfNotFound": "https://github.com/RedBrumbler/Quest-BSML/releases/download/v0.2.2/BSML.qmod"
+		},
+		{
+			"id": "tinyxml",
+			"version": "9.0.5",
+			"downloadIfNotFound": "https://github.com/MillzyDev/NDK-tinyxml2/releases/download/v9.0.5/tinyxml2.qmod"
 		}
 	],
 	"modFiles": [
