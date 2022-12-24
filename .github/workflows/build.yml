@@ -75,7 +75,7 @@ jobs:
     
     - name: Create Qmod Template
       run: |
-        ./QPM/qpm-rust qmod build
+        ./QPM/qpm-rust qmod create
   
     - name: Build
       run: |
