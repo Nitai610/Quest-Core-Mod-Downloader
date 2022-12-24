@@ -72,6 +72,11 @@ jobs:
     - name: Apply Legacy Fix
       run: |
         ./QPM/qpm-rust cache legacy-fix
+    
+    - name: Create Qmod Template
+      run: |
+        ./QPM/qpm-rust qmod build
+  
     - name: Build
       run: |
         cd ${GITHUB_WORKSPACE}
