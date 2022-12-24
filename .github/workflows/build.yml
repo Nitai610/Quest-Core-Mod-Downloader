@@ -3,8 +3,8 @@
 name: NDK build
 
 env:
-    module_id: QolourSwitcher
-    qmodName: QolourSwitcher
+    module_id: CoreModDownloader
+    qmodName: CoreModDownloads
 
 on:
   workflow_dispatch:
